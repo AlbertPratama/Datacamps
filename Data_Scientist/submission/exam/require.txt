@@ -1,0 +1,15 @@
+Use Python to perform each of the tasks.
+
+Write your solutions in the code cell provided.
+
+The object you have been asked to create will be graded, not the code.
+
+Ensure you match any column name or object requirements.
+
+You must be successful in all tasks to pass this exam.
+
+You will only have two opportunities to submit your exam for grading.
+
+The fit of your models will be compared to held back values from the test set provided to you. We will calculate the Root Mean Squared Error of your predictions.
+
+At least one of your two models must have a Root Mean Squared Error below 30,000 to pass.

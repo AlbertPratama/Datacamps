@@ -1,0 +1,66 @@
+CountryName,CountryCode,IndicatorName,IndicatorCode,Year,Value
+Arab World,ARB,"Adolescent fertility rate (births per 1,000 wo...",SP.ADO.TFRT,1960,1.34E+02
+Arab World,ARB,Age dependency ratio (% of working-age populat...,SP.POP.DPND,1960,8.78E+01
+Arab World,ARB,"Age dependency ratio, old (% of working-age po...",SP.POP.DPND.OL,1960,6.64E+00
+Arab World,ARB,"Age dependency ratio, young (% of working-age ...",SP.POP.DPND.YG,1960,8.10E+01
+Arab World,ARB,Arms exports (SIPRI trend indicator values),MS.MIL.XPRT.KD,1960,3.00E+06
+Arab World,ARB,Arms imports (SIPRI trend indicator values),MS.MIL.MPRT.KD,1960,5.38E+08
+Arab World,ARB,"Birth rate, crude (per 1,000 people)",SP.DYN.CBRT.IN,1960,4.77E+01
+Arab World,ARB,CO2 emissions (kt),EN.ATM.CO2E.KT,1960,5.96E+04
+Arab World,ARB,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1960,6.44E-01
+Arab World,ARB,CO2 emissions from gaseous fuel consumption (%...,EN.ATM.CO2E.GF.ZS,1960,5.04E+00
+Arab World,ARB,CO2 emissions from liquid fuel consumption (% ...,EN.ATM.CO2E.LF.ZS,1960,8.49E+01
+Arab World,ARB,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1960,4.95E+04
+Arab World,ARB,CO2 emissions from solid fuel consumption (% o...,EN.ATM.CO2E.SF.ZS,1960,4.73E+00
+Arab World,ARB,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,1960,1.98E+01
+Arab World,ARB,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1960,6.92E+00
+Arab World,ARB,Fixed telephone subscriptions,IT.MLT.MAIN,1960,4.07E+05
+Arab World,ARB,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1960,6.17E-01
+Arab World,ARB,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1960,1.93E+00
+Arab World,ARB,International migrant stock (% of population),SM.POP.TOTL.ZS,1960,2.99E+00
+Arab World,ARB,"International migrant stock, total",SM.POP.TOTL,1960,3.33E+06
+Arab World,ARB,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,1960,4.79E+01
+Arab World,ARB,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,1960,4.59E+01
+Arab World,ARB,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,1960,4.69E+01
+Arab World,ARB,Merchandise exports (current US$),TX.VAL.MRCH.CD.WT,1960,4.65E+09
+Arab World,ARB,Merchandise exports by the reporting economy (...,TX.VAL.MRCH.WL.CD,1960,2.47E+09
+Arab World,ARB,"Merchandise exports by the reporting economy, ...",TX.VAL.MRCH.RS.ZS,1960,1.65E+01
+Arab World,ARB,Merchandise exports to developing economies in...,TX.VAL.MRCH.R1.ZS,1960,2.26E+00
+Arab World,ARB,Merchandise exports to developing economies in...,TX.VAL.MRCH.R3.ZS,1960,4.50E-01
+Arab World,ARB,Merchandise exports to developing economies in...,TX.VAL.MRCH.R4.ZS,1960,6.38E+00
+Arab World,ARB,Merchandise exports to developing economies in...,TX.VAL.MRCH.R5.ZS,1960,2.79E+00
+Arab World,ARB,Merchandise exports to developing economies in...,TX.VAL.MRCH.R6.ZS,1960,2.04E+00
+Arab World,ARB,Merchandise exports to developing economies ou...,TX.VAL.MRCH.OR.ZS,1960,9.03E+00
+Arab World,ARB,Merchandise exports to developing economies wi...,TX.VAL.MRCH.WR.ZS,1960,5.94E+00
+Arab World,ARB,Merchandise exports to economies in the Arab W...,TX.VAL.MRCH.AL.ZS,1960,8.51E+00
+Arab World,ARB,Merchandise exports to high-income economies (...,TX.VAL.MRCH.HI.ZS,1960,6.86E+01
+Arab World,ARB,Merchandise imports (current US$),TM.VAL.MRCH.CD.WT,1960,5.13E+09
+Arab World,ARB,Merchandise imports by the reporting economy (...,TM.VAL.MRCH.WL.CD,1960,3.93E+09
+Arab World,ARB,"Merchandise imports by the reporting economy, ...",TM.VAL.MRCH.RS.ZS,1960,1.25E+01
+Arab World,ARB,Merchandise imports from developing economies ...,TM.VAL.MRCH.R1.ZS,1960,5.81E-01
+Arab World,ARB,Merchandise imports from developing economies ...,TM.VAL.MRCH.R3.ZS,1960,1.11E+00
+Arab World,ARB,Merchandise imports from developing economies ...,TM.VAL.MRCH.R4.ZS,1960,4.74E+00
+Arab World,ARB,Merchandise imports from developing economies ...,TM.VAL.MRCH.R5.ZS,1960,2.77E+00
+Arab World,ARB,Merchandise imports from developing economies ...,TM.VAL.MRCH.R6.ZS,1960,2.39E+00
+Arab World,ARB,Merchandise imports from developing economies ...,TM.VAL.MRCH.OR.ZS,1960,5.87E+00
+Arab World,ARB,Merchandise imports from developing economies ...,TM.VAL.MRCH.WR.ZS,1960,4.23E+00
+Arab World,ARB,Merchandise imports from economies in the Arab...,TM.VAL.MRCH.AL.ZS,1960,6.03E+00
+Arab World,ARB,Merchandise imports from high-income economies...,TM.VAL.MRCH.HI.ZS,1960,7.74E+01
+Arab World,ARB,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,1960,4.72E+01
+Arab World,ARB,Mobile cellular subscriptions,IT.CEL.SETS,1960,0.00E+00
+Arab World,ARB,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1960,0.00E+00
+Arab World,ARB,"Mortality rate, adult, female (per 1,000 femal...",SP.DYN.AMRT.FE,1960,2.99E+02
+Arab World,ARB,"Mortality rate, adult, male (per 1,000 male ad...",SP.DYN.AMRT.MA,1960,3.58E+02
+Arab World,ARB,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,1960,1.60E+02
+Arab World,ARB,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT,1960,2.49E+02
+Arab World,ARB,"Net bilateral aid flows from DAC donors, Europ...",DC.DAC.CECL.CD,1960,7.00E+04
+Arab World,ARB,"Net bilateral aid flows from DAC donors, Franc...",DC.DAC.FRAL.CD,1960,3.54E+08
+Arab World,ARB,"Net bilateral aid flows from DAC donors, Germa...",DC.DAC.DEUL.CD,1960,2.06E+06
+Arab World,ARB,"Net bilateral aid flows from DAC donors, Italy...",DC.DAC.ITAL.CD,1960,7.15E+07
+Arab World,ARB,"Net bilateral aid flows from DAC donors, Japan...",DC.DAC.JPNL.CD,1960,5.00E+04
+Arab World,ARB,"Net bilateral aid flows from DAC donors, Total...",DC.DAC.TOTL.CD,1960,8.45E+08
+Arab World,ARB,"Net bilateral aid flows from DAC donors, Unite...",DC.DAC.GBRL.CD,1960,4.26E+07
+Arab World,ARB,"Net bilateral aid flows from DAC donors, Unite...",DC.DAC.USAL.CD,1960,3.75E+08
+Arab World,ARB,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,1960,9.54E+00
+Arab World,ARB,Net official development assistance and offici...,DT.ODA.ALLD.KD,1960,7.30E+09
+Arab World,ARB,Net official development assistance and offici...,…,,

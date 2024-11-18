@@ -1,0 +1,201 @@
+id,day,airline,destination,dest_region,dest_size,boarding_area,dept_time,wait_min,cleanliness,safety,satisfaction,wait_type,day_week,full_name
+1351,Tuesday,UNITED INTL,KANSAI,asia,Hub,Gates 91-102,2018-12-31,115.0,Clean,Neutral,Very satisfied,medium,weekday,Melodie Stuart
+373,Friday,ALASKA,SAN JOSE DEL CABO,canada/mexico,Small,Gates 50-59,2018-12-31,135.0,Clean,Very safe,Very satisfied,medium,weekday,Dominic Shannon
+2820,Thursday,DELTA,LOS ANGELES,west us,Hub,Gates 40-48,2018-12-31,70.0000000000001,Average,Somewhat safe,Neutral,medium,weekday,Quintessa Tillman
+1157,Tuesday,SOUTHWEST,LOS ANGELES,west us,Hub,Gates 20-39,2018-12-31,190.0,Clean,Very safe,Somewhat satsified,long,weekday,Dr. Christine Nicholson
+2992,Wednesday,AMERICAN,MIAMI,east us,Hub,Gates 50-59,2018-12-31,559.0,Somewhat clean,Very safe,Somewhat satsified,long,weekday,Regina Clements
+634,Thursday,ALASKA,NEWARK,east us,Hub,Gates 50-59,2018-12-31,140.0,Somewhat clean,Very safe,Very satisfied,medium,weekday,Colleen Harding
+2578,Saturday,JETBLUE,LONG BEACH,west us,Small,Gates 1-12,2018-12-31,62.99999999999989,Clean,Very safe,Somewhat satsified,medium,weekend,Kaitlin Cochran
+2592,Saturday,AEROMEXICO,MEXICO CITY,canada/mexico,Hub,Gates 1-12,2018-12-31,215.0,Somewhat clean,Very safe,Neutral,long,weekend,Molly Norton
+919,Friday,AIR CANADA,TORONTO,canada/mexico,Hub,Gates 91-102,2018-12-31,70.0000000000001,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Richard Lott
+3028,Tuesday,UNITED,PORTLAND,west us,Medium,Gates 70-90,2018-12-31,180.0,Average,Very safe,Neutral,medium,weekday,Matthew Nguyen
+1129,Tuesday,SOUTHWEST,SAN DIEGO,west us,Medium,Gates 20-39,2018-12-31,540.0,Clean,Very safe,Somewhat satsified,long,weekday,Dr. Laith Decker
+2648,Saturday,JETBLUE,BOSTON,east us,Large,Gates 1-12,2018-12-31,192.0,Somewhat clean,Very safe,Somewhat satsified,long,weekend,Holly Austin
+3104,Tuesday,UNITED,SPOKANE,west us,Small,Gates 70-90,2018-12-31,107.0,Clean,Very safe,Somewhat satsified,medium,weekday,Jaden Gray
+2589,Saturday,INTERJET,GUADALAJARA,canada/mexico,Medium,Gates 1-12,2018-12-31,155.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekend,Germaine Hurley
+2345,Tuesday,DELTA,MINNEAPOLIS-ST. PAUL,midwest us,Hub,Gates 40-48,2018-12-31,155.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Kyle Gay
+390,Friday,ALASKA,LOS ANGELES,west us,Hub,Gates 50-59,2018-12-31,175.0,Somewhat clean,Neutral,Somewhat satsified,medium,weekday,Zachery Diaz
+954,Tuesday,ALASKA,NEW YORK-JFK,east us,Hub,Gates 50-59,2018-12-31,100.0,Clean,Very safe,Very satisfied,medium,weekday,Carolyn Hartman
+2913,Friday,TURKISH AIRLINES,ISTANBUL,middle east,Hub,Gates 91-102,2018-12-31,225.0,Clean,Very safe,Somewhat satsified,long,weekday,Miss Alana Grant
+803,Sunday,ALASKA,BALTIMORE,east us,Medium,Gates 50-59,2018-12-31,155.0,Clean,Very safe,Very satisfied,medium,weekend,Idola Acosta
+767,Thursday,AIR CANADA,TORONTO,canada/mexico,Hub,Gates 91-102,2018-12-31,115.0,Average,Neutral,Somewhat satsified,medium,weekday,Dara English
+1214,Tuesday,SOUTHWEST,LAS VEGAS,west us,Hub,Gates 20-39,2018-12-31,59.99999999999989,Average,Somewhat safe,Somewhat satsified,short,weekday,Miss Aurora Flores
+1373,Tuesday,UNITED INTL,SHANGHAI,asia,Hub,Gates 91-102,2018-12-31,145.0,Clean,Very safe,Somewhat satsified,medium,weekday,Henry Sloan
+1263,Thursday,UNITED INTL,TOKYO-NARITA,asia,Hub,Gates 91-102,2018-12-31,210.0,Average,Neutral,Neutral,long,weekday,Jared Chase
+2723,Wednesday,AIR FRANCE/KLM,PARIS-DE GAULLE,europe,Hub,Gates 1-12,2018-12-31,160.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Xavier Castro
+3097,Tuesday,UNITED,SPOKANE,west us,Small,Gates 70-90,2018-12-31,604.0,Clean,Very safe,Very satisfied,long,weekday,Holmes Fowler
+214,Wednesday,AMERICAN,LOS ANGELES,west us,Hub,Gates 50-59,2018-12-31,100.0,Average,Somewhat safe,Somewhat satsified,medium,weekday,Lucy Noel
+1372,Tuesday,UNITED INTL,PARIS-DE GAULLE,europe,Hub,Gates 91-102,2018-12-31,205.0,Somewhat clean,Very safe,Somewhat satsified,long,weekday,Kerry Tucker
+1956,Tuesday,UNITED,BOSTON,east us,Large,Gates 70-90,2018-12-31,115.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Garrison Barrett
+1716,Sunday,AIR FRANCE/KLM,PARIS-DE GAULLE,europe,Hub,Gates 1-12,2018-12-31,510.0,Clean,Neutral,Very satisfied,long,weekend,Stephanie Cannon
+1487,Wednesday,HAWAIIAN AIR,HONOLULU,west us,Medium,Gates 1-12,2018-12-31,135.0,Clean,Very safe,Somewhat satsified,medium,weekday,Dr. Charlotte Savage
+842,Tuesday,AMERICAN,DALLAS-FT. WORTH,midwest us,Hub,Gates 50-59,2018-12-31,145.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Lane Clements
+930,Friday,AIR CANADA,TORONTO,canada/mexico,Hub,Gates 91-102,2018-12-31,270.0,Average,Somewhat safe,Somewhat satsified,long,weekday,Aimee Whitfield
+3064,Sunday,COPA,PANAMA CITY,central/south america,Medium,Gates 1-12,2018-12-31,173.0,Average,Neutral,Neutral,medium,weekend,Martena Neal
+743,Sunday,ALASKA,NEW YORK-JFK,east us,Hub,Gates 50-59,2018-12-31,100.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekend,Xandra Hartman
+2099,Monday,UNITED INTL,MEXICO CITY,canada/mexico,Hub,Gates 91-102,2018-12-31,190.0,Clean,Very safe,Neutral,long,weekday,Meredith Gutierrez
+315,Thursday,UNITED,SAN DIEGO,west us,Medium,Gates 70-90,2018-12-31,92.0000000000002,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Mr. Kermit Deleon
+2216,Thursday,SOUTHWEST,PHOENIX,west us,Hub,Gates 20-39,2018-12-31,135.0,Somewhat clean,Very safe,Very satisfied,medium,weekday,Derek Terrell
+3121,Sunday,ALASKA,NEWARK,east us,Hub,Gates 50-59,2018-12-31,125.0,Clean,Very safe,Neutral,medium,weekend,Shaeleigh Mccarthy
+2890,Sunday,WOW,REYKJAVIK,europe,Small,Gates 1-12,2018-12-31,145.0,Average,Neutral,Somewhat satsified,medium,weekend,Burke Leon
+3046,Tuesday,AMERICAN,LOS ANGELES,west us,Hub,Gates 50-59,2018-12-31,120.0,Average,Very safe,Very satisfied,medium,weekday,Mr. Clinton Holmes
+3183,Thursday,DELTA,LOS ANGELES,west us,Hub,Gates 40-48,2018-12-31,900.0,Somewhat clean,Somewhat safe,Somewhat satsified,long,weekday,Whoopi Tillman
+2288,Tuesday,UNITED,SAN ANTONIO,midwest us,Medium,Gates 70-90,2018-12-31,150.0,Clean,Very safe,Very satisfied,medium,weekday,Hamilton Gardner
+2740,Wednesday,AIR FRANCE/KLM,PARIS-DE GAULLE,europe,Hub,Gates 1-12,2018-12-31,330.0,Average,Very unsafe,Somewhat satsified,long,weekday,Graiden Bridges
+1570,Wednesday,UNITED INTL,HONG KONG,asia,Hub,Gates 91-102,2018-12-31,150.0,Clean,Somewhat safe,Somewhat satsified,medium,weekday,Sheila Robinson
+3228,Thursday,ALASKA,PORTLAND,west us,Medium,Gates 50-59,2018-12-31,110.0,Clean,Very safe,Somewhat satsified,medium,weekday,Cameron Barlow
+1140,Tuesday,SOUTHWEST,LOS ANGELES,west us,Hub,Gates 20-39,2018-12-31,415.0,Somewhat clean,Very safe,Somewhat satsified,long,weekday,Kasimir Irwin
+349,Friday,ALASKA,SAN DIEGO,west us,Medium,Gates 50-59,2018-12-31,76.0000000000001,Clean,Very safe,Very satisfied,medium,weekday,Ms. Lilah Chen
+1572,Wednesday,UNITED INTL,HONG KONG,asia,Hub,Gates 91-102,2018-12-31,150.0,Somewhat clean,Neutral,Very satisfied,medium,weekday,Judith Price
+1635,Thursday,KOREAN AIR,SEOUL,asia,Hub,Gates 1-12,2018-12-31,210.0,Somewhat dirty,Somewhat safe,Neutral,long,weekday,Dane Barker
+524,Thursday,EMIRATES,DUBAI,middle east,Hub,Gates 1-12,2018-12-31,165.0,Somewhat clean,Somewhat safe,Neutral,medium,weekday,Micah Bullock
+1139,Tuesday,SOUTHWEST,SAN DIEGO,west us,Medium,Gates 20-39,2018-12-31,120.0,Average,Very safe,Somewhat satsified,medium,weekday,Leonard Stevens
+314,Thursday,UNITED,SAN DIEGO,west us,Medium,Gates 70-90,2018-12-31,122.0,Clean,Very safe,Very satisfied,medium,weekday,Ms. Beverly Hampton
+558,Thursday,EMIRATES,DUBAI,middle east,Hub,Gates 1-12,2018-12-31,225.0,Somewhat clean,Somewhat safe,Somewhat satsified,long,weekday,Devin Morrison
+262,Friday,AIR CANADA,TORONTO,canada/mexico,Hub,Gates 91-102,2018-12-31,175.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Mr. Jordan Cooke
+2537,Tuesday,UNITED,CHICAGO-O'HARE,midwest us,Hub,Gates 60-69,2018-12-31,115.0,Clean,Very safe,Very satisfied,medium,weekday,Miss Ann Hale
+1713,Sunday,AIR FRANCE/KLM,PARIS-DE GAULLE,europe,Hub,Gates 1-12,2018-12-31,135.0,Average,Very safe,Somewhat satsified,medium,weekend,Graiden Riddle
+407,Saturday,UNITED,PHOENIX,west us,Hub,Gates 70-90,2018-12-31,110.0,Clean,Very safe,Somewhat satsified,medium,weekend,Julian Stanley
+3212,Thursday,AMERICAN,LOS ANGELES,west us,Hub,Gates 50-59,2018-12-31,90.0,Somewhat clean,Somewhat safe,Somewhat unsatisfied,medium,weekday,Christine Carter
+450,Sunday,UNITED,INDIANAPOLIS,midwest us,Medium,Gates 60-69,2018-12-31,67.9999999999999,Clean,Somewhat safe,Very satisfied,medium,weekend,Hasad Valentine
+1477,Wednesday,AVIANCA,SAN SALVADOR,central/south america,Small,Gates 1-12,2018-12-31,155.0,Clean,Very safe,Very satisfied,medium,weekday,Bevis Mcdowell
+3151,Thursday,DELTA,SALT LAKE CITY,west us,Medium,Gates 40-48,2018-12-31,14.9999999999999,Average,Very safe,Neutral,short,weekday,Alec Davis
+2257,Wednesday,UNITED,LOS ANGELES,west us,Hub,Gates 60-69,2018-12-31,64.9999999999999,Clean,Very safe,Very satisfied,medium,weekday,Dr. Daniel Hood
+2400,Wednesday,UNITED INTL,BEIJING,asia,Hub,Gates 91-102,2018-12-31,205.0,Clean,Very safe,Somewhat satsified,long,weekday,Ms. Britanney Schmidt
+2230,Wednesday,AER LINGUS,DUBLIN,europe,Large,Gates 91-102,2018-12-31,300.0,Average,Somewhat safe,Neutral,long,weekday,Wanda Jackson
+2865,Wednesday,UNITED,WASHINGTON DC-DULLES,east us,Medium,Gates 70-90,2018-12-31,77.0,Average,Very safe,Somewhat satsified,medium,weekday,Quyn Henderson
+387,Friday,ALASKA,INDIANAPOLIS,midwest us,Medium,Gates 50-59,2018-12-31,160.0,Clean,Very safe,Very satisfied,medium,weekday,Hammett Duncan
+1957,Friday,CATHAY PACIFIC,HONG KONG,asia,Hub,Gates 1-12,2018-12-31,185.0,Somewhat clean,Neutral,Somewhat satsified,long,weekday,Duncan Stark
+2526,Tuesday,JETBLUE,LONG BEACH,west us,Small,Gates 1-12,2018-12-31,60.0,Somewhat clean,Somewhat safe,Somewhat satsified,short,weekday,Jin Shannon
+3041,Tuesday,AMERICAN,DALLAS-FT. WORTH,midwest us,Hub,Gates 50-59,2018-12-31,185.0,Somewhat clean,Very safe,Somewhat satsified,long,weekday,Fulton Meadows
+813,Sunday,ALASKA,PORTLAND,west us,Medium,Gates 50-59,2018-12-31,140.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekend,Dr. Malik Hanson
+1523,Wednesday,JETBLUE,NEW YORK-JFK,east us,Hub,Gates 1-12,2018-12-31,81.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Laith Espinoza
+2796,Sunday,WOW,REYKJAVIK,europe,Small,Gates 1-12,2018-12-31,160.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekend,Dr. Jared Holman
+3255,Tuesday,UNITED,SAN DIEGO,west us,Medium,Gates 70-90,2018-12-31,105.0,Average,Somewhat safe,Neutral,medium,weekday,Julie Davidson
+2042,Friday,BRITISH AIRWAYS,LONDON HEATHROW,europe,Hub,Gates 1-12,2018-12-31,180.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Dr. Jane Harrell
+3062,Sunday,PHILIPPINE AIRLINES,MANILA,asia,Medium,Gates 1-12,2018-01-01,215.0,Clean,Somewhat safe,Somewhat satsified,long,weekend,Aphrodite Shannon
+2026,Friday,BRITISH AIRWAYS,LONDON HEATHROW,europe,Hub,Gates 1-12,2018-12-31,120.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Jermaine Randall
+1793,Saturday,UNITED,RALEIGH-DURHAM,east us,Medium,Gates 70-90,2018-12-31,150.0,Clean,Somewhat safe,Somewhat satsified,medium,weekend,Hammett Talley
+1366,Tuesday,UNITED INTL,KANSAI,asia,Hub,Gates 91-102,2018-12-31,170.0,Clean,Very safe,Somewhat satsified,medium,weekday,Sasha Riggs
+1017,Friday,AIR CANADA,VANCOUVER,canada/mexico,Medium,Gates 91-102,2018-12-31,110.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Dr. Damian Wynn
+2501,Friday,ALASKA,SALT LAKE CITY,west us,Medium,Gates 1-12,2018-12-31,120.0,Somewhat clean,Neutral,Somewhat satsified,medium,weekday,Aidan Macias
+3202,Sunday,CATHAY PACIFIC,HONG KONG,asia,Hub,Gates 1-12,2018-01-01,210.0,Clean,Neutral,Somewhat satsified,long,weekend,Sawyer Hines
+1747,Monday,LUFTHANSA,MUNICH,europe,Hub,Gates 91-102,2018-12-31,205.0,Clean,Very safe,Very satisfied,long,weekday,Mr. Hector Caldwell
+1954,Saturday,AIR FRANCE/KLM,PARIS-DE GAULLE,europe,Hub,Gates 1-12,2018-12-31,245.0,Clean,Very safe,Very satisfied,long,weekend,Abra Webb
+643,Thursday,ALASKA,NEW ORLEANS,midwest us,Medium,Gates 50-59,2018-12-31,160.0,Somewhat clean,Neutral,Somewhat satsified,medium,weekday,Stone Price
+2258,Wednesday,WOW,REYKJAVIK,europe,Small,Gates 91-102,2018-12-31,355.0,Somewhat clean,Somewhat safe,Somewhat satsified,long,weekday,Cheyenne Stout
+2334,Tuesday,DELTA,MINNEAPOLIS-ST. PAUL,midwest us,Hub,Gates 40-48,2018-12-31,155.0,Clean,Very safe,Very satisfied,medium,weekday,Lareina Wall
+1887,Tuesday,UNITED,BOSTON,east us,Large,Gates 70-90,2018-12-31,84.9999999999999,Somewhat clean,Neutral,Neutral,medium,weekday,Dr. Ella Pena
+363,Friday,LUFTHANSA,FRANKFURT,europe,Hub,Gates 91-102,2018-12-31,180.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Quintessa Sherman
+2443,Tuesday,JETBLUE,BOSTON,east us,Large,Gates 1-12,2018-12-31,177.0,Clean,Very safe,Somewhat satsified,medium,weekday,Ishmael Duffy
+2321,Wednesday,SOUTHWEST,LOS ANGELES,west us,Hub,Gates 20-39,2018-12-31,130.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Ms. Willa Stuart
+1593,Thursday,SOUTHWEST,LOS ANGELES,west us,Hub,Gates 20-39,2018-12-31,50.0,Clean,Very safe,Very satisfied,short,weekday,Gareth Hunt
+716,Wednesday,CATHAY PACIFIC,HONG KONG,asia,Hub,Gates 1-12,2018-12-31,270.0,Clean,Very safe,Very satisfied,long,weekday,Stewart Jacobs
+2320,Wednesday,QANTAS,SYDNEY,australia/new zealand,Hub,Gates 1-12,2018-12-31,150.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Ms. Amaya Pate
+2038,Friday,BRITISH AIRWAYS,LONDON HEATHROW,europe,Hub,Gates 1-12,2018-12-31,150.0,Average,Somewhat safe,Neutral,medium,weekday,Dr. Xavier Medina
+550,Thursday,EMIRATES,DUBAI,middle east,Hub,Gates 1-12,2018-12-31,245.0,Somewhat clean,Somewhat safe,Somewhat satsified,long,weekday,Mr. Marvin Mcneil
+746,Sunday,ALASKA,NEW YORK-JFK,east us,Hub,Gates 50-59,2018-12-31,120.0,Clean,Very safe,Very satisfied,medium,weekend,Imogene Harris
+2739,Friday,UNITED,KAHULUI,west us,Small,Gates 60-69,2018-12-31,32.0,Somewhat clean,Very safe,Somewhat satsified,short,weekday,Abbot Hensley
+1984,Friday,AIR FRANCE/KLM,AMSTERDAM,europe,Hub,Gates 1-12,2018-12-31,115.0,Average,Neutral,Somewhat unsatisfied,medium,weekday,Miss Fiona Velez
+2566,Saturday,JETBLUE,LONG BEACH,west us,Small,Gates 1-12,2018-12-31,103.0,Clean,Very safe,Somewhat satsified,medium,weekend,Rinah Stephenson
+2200,Wednesday,AER LINGUS,DUBLIN,europe,Large,Gates 91-102,2018-12-31,180.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Ms. Olivia Keith
+340,Wednesday,SOUTHWEST,PHOENIX,west us,Hub,Gates 20-39,2018-12-31,240.0,Somewhat clean,Somewhat safe,Somewhat satsified,long,weekday,Vielka Rosario
+1252,Thursday,UNITED INTL,TOKYO-NARITA,asia,Hub,Gates 91-102,2018-12-31,120.0,Somewhat clean,Somewhat safe,Very satisfied,medium,weekday,Lani Sawyer
+1946,Saturday,AIR FRANCE/KLM,PARIS-DE GAULLE,europe,Hub,Gates 1-12,2018-12-31,305.0,Clean,Very safe,Neutral,long,weekend,Clayton Sparks
+2627,Tuesday,UNITED,CHICAGO-O'HARE,midwest us,Hub,Gates 60-69,2018-12-31,74.9999999999999,Clean,Very safe,Very satisfied,medium,weekday,Oprah Ingram
+1563,Wednesday,DELTA,ATLANTA,east us,Hub,Gates 40-48,2018-12-31,135.0,Somewhat clean,Somewhat safe,Neutral,medium,weekday,Acton Smith
+752,Thursday,AIR CANADA,TORONTO,canada/mexico,Hub,Gates 91-102,2018-12-31,235.0,Somewhat clean,Somewhat safe,Neutral,long,weekday,Demetria Byrd
+3135,Tuesday,UNITED,SAN DIEGO,west us,Medium,Gates 60-69,2018-12-31,70.0000000000001,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Patience Galloway
+1123,Thursday,DELTA,MINNEAPOLIS-ST. PAUL,midwest us,Hub,Gates 40-48,2018-12-31,90.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Hoyt Alvarez
+2220,Thursday,SOUTHWEST,PHOENIX,west us,Hub,Gates 20-39,2018-12-31,95.0,Somewhat clean,Very safe,Very satisfied,medium,weekday,Dara Pennington
+3065,Tuesday,UNITED,SPOKANE,west us,Small,Gates 70-90,2018-12-31,112.0,Average,Neutral,Neutral,medium,weekday,Ebony Davidson
+3052,Tuesday,AMERICAN,MIAMI,east us,Hub,Gates 50-59,2018-12-31,125.0,Clean,Somewhat safe,Somewhat satsified,medium,weekday,Brent Rosario
+2847,Tuesday,UNITED,SEATTLE,west us,Hub,Gates 70-90,2018-12-31,142.0,Average,Very safe,Somewhat satsified,medium,weekday,Melyssa Mayer
+884,Tuesday,ALASKA,SEATTLE,west us,Hub,Gates 50-59,2018-12-31,85.0,Clean,Very safe,Very satisfied,medium,weekday,Regan Kelly
+2054,Friday,UNITED,NEWARK,east us,Hub,Gates 70-90,2018-12-31,150.0,Clean,Very safe,Very satisfied,medium,weekday,Leah Barlow
+1571,Wednesday,DELTA,DETROIT,midwest us,Large,Gates 40-48,2018-12-31,155.0,Somewhat clean,Very safe,Neutral,medium,weekday,Nathan Santos
+747,Sunday,ALASKA,NEW YORK-JFK,east us,Hub,Gates 50-59,2018-12-31,120.0,Somewhat clean,Very safe,Very satisfied,medium,weekend,Uta Mckee
+1799,Sunday,ALASKA,RALEIGH-DURHAM,east us,Medium,Gates 50-59,2018-12-31,265.0,Somewhat clean,Neutral,Somewhat satsified,long,weekend,Lawrence Gallegos
+2281,Wednesday,QANTAS,SYDNEY,australia/new zealand,Hub,Gates 1-12,2018-12-31,225.0,Average,Neutral,Somewhat unsatisfied,long,weekday,Matthew Edwards
+2711,Friday,UNITED,SANTA BARBARA,west us,Small,Gates 70-90,2018-12-31,122.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Xander Wilson
+917,Friday,AIR CANADA,TORONTO,canada/mexico,Hub,Gates 91-102,2018-12-31,90.0,Somewhat clean,Somewhat safe,Neutral,medium,weekday,Kelly Pittman
+2091,Thursday,AMERICAN,PHILADELPHIA,east us,Large,Gates 50-59,2018-12-31,97.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Brynne Pugh
+265,Friday,AIR CANADA,TORONTO,canada/mexico,Hub,Gates 91-102,2018-12-31,415.0,Average,Neutral,Neutral,long,weekday,Shea Collins
+2387,Wednesday,UNITED INTL,BEIJING,asia,Hub,Gates 91-102,2018-12-31,135.0,Somewhat clean,Neutral,Neutral,medium,weekday,Hu Carver
+3254,Tuesday,UNITED,SAN DIEGO,west us,Medium,Gates 70-90,2018-12-31,150.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Stacey Coleman
+772,Thursday,UNITED INTL,SAN JOSE DEL CABO,canada/mexico,Small,Gates 91-102,2018-12-31,90.0,Somewhat clean,Very safe,Very satisfied,medium,weekday,Kaye Mcgowan
+465,Sunday,UNITED,DENVER,west us,Hub,Gates 70-90,2018-12-31,131.0,Average,Somewhat safe,Somewhat satsified,medium,weekend,Vivien Cobb
+374,Friday,ALASKA,SAN JOSE DEL CABO,canada/mexico,Small,Gates 50-59,2018-12-31,105.0,Somewhat clean,Neutral,Somewhat satsified,medium,weekday,Vaughan Harrison
+367,Friday,ALASKA,SAN JOSE DEL CABO,canada/mexico,Small,Gates 50-59,2018-12-31,135.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Porter Hudson
+2113,Friday,JETBLUE,LONG BEACH,west us,Small,Gates 1-12,2018-12-31,514.0,Average,Somewhat safe,Somewhat satsified,long,weekday,Carl Conway
+1970,Friday,CATHAY PACIFIC,HONG KONG,asia,Hub,Gates 1-12,2018-12-31,185.0,Clean,Very safe,Somewhat satsified,long,weekday,Lyle Bradshaw
+1012,Friday,AIR CANADA,VANCOUVER,canada/mexico,Medium,Gates 91-102,2018-12-31,185.0,Clean,Very safe,Somewhat satsified,long,weekday,Hashim Walter
+1739,Monday,AIR CANADA,TORONTO,canada/mexico,Hub,Gates 91-102,2018-12-31,75.0000000000001,Somewhat clean,Somewhat safe,Very satisfied,medium,weekday,Branden Larson
+2004,Wednesday,UNITED,NEWARK,east us,Hub,Gates 70-90,2018-12-31,170.0,Somewhat clean,Somewhat safe,Very satisfied,medium,weekday,Idola Ball
+2016,Wednesday,UNITED,NEWARK,east us,Hub,Gates 70-90,2018-12-31,98.0000000000001,Clean,Very safe,Somewhat satsified,medium,weekday,Camilla White
+2262,Saturday,UNITED,BAKERSFIELD,west us,Small,Gates 70-90,2018-12-31,166.0,Somewhat dirty,Very safe,Somewhat unsatisfied,medium,weekend,Rafael Lowery
+2482,Friday,ALASKA,SALT LAKE CITY,west us,Medium,Gates 1-12,2018-12-31,90.0,Somewhat clean,Neutral,Somewhat unsatisfied,medium,weekday,Victor Leon
+2969,Tuesday,UNITED,HONOLULU,west us,Medium,Gates 70-90,2018-12-31,65.0000000000001,Clean,Very safe,Very satisfied,medium,weekday,Yasir Lynch
+2575,Tuesday,UNITED,CHICAGO-O'HARE,midwest us,Hub,Gates 60-69,2018-12-31,90.0,Clean,Somewhat safe,Very satisfied,medium,weekday,Dr. Emerson Woodard
+637,Thursday,ALASKA,NEW ORLEANS,midwest us,Medium,Gates 50-59,2018-12-31,110.0,Clean,Very safe,Very satisfied,medium,weekday,Dr. Astra Mcneil
+2497,Friday,UNITED,CHICAGO-O'HARE,midwest us,Hub,Gates 60-69,2018-12-31,139.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Dr. Shafira Marks
+1724,Monday,AIR CANADA,TORONTO,canada/mexico,Hub,Gates 91-102,2018-12-31,150.0,Clean,Very safe,Very satisfied,medium,weekday,Mr. Dominic Smith
+805,Wednesday,AMERICAN,LOS ANGELES,west us,Hub,Gates 50-59,2018-12-31,160.0,Somewhat clean,Very safe,Neutral,medium,weekday,Talon Holder
+3169,Thursday,DELTA,LOS ANGELES,west us,Hub,Gates 40-48,2018-12-31,59.99999999999989,Average,Very safe,Somewhat satsified,short,weekday,Ivor Wise
+1090,Thursday,DELTA,MINNEAPOLIS-ST. PAUL,midwest us,Hub,Gates 40-48,2018-12-31,105.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Carolyn Clay
+270,Thursday,UNITED,LOS ANGELES,west us,Hub,Gates 70-90,2018-12-31,130.0,Clean,Very safe,Very satisfied,medium,weekday,Jerome Ruiz
+569,Thursday,ALASKA,SEATTLE,west us,Hub,Gates 50-59,2018-12-31,105.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Todd Chase
+2319,Wednesday,QANTAS,SYDNEY,australia/new zealand,Hub,Gates 1-12,2018-12-31,220.0,Average,Very safe,Somewhat unsatisfied,long,weekday,Gray Noel
+3223,Thursday,AMERICAN,LOS ANGELES,west us,Hub,Gates 50-59,2018-12-31,60.0,Clean,Very safe,Very satisfied,short,weekday,Ann Sanchez
+2922,Thursday,DELTA,SEATTLE,west us,Hub,Gates 40-48,2018-12-31,105.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Mr. Alec Heath
+13,Tuesday,SOUTHWEST,LOS ANGELES,west us,Hub,Gates 20-39,2018-12-31,90.0,Average,Somewhat safe,Somewhat satsified,medium,weekday,Heidi Terry
+1719,Sunday,AIR FRANCE/KLM,PARIS-DE GAULLE,europe,Hub,Gates 1-12,2018-12-31,510.0,Average,Somewhat safe,Neutral,long,weekend,Alana Velasquez
+3186,Thursday,DELTA,LOS ANGELES,west us,Hub,Gates 40-48,2018-12-31,53.0,Average,Somewhat safe,Somewhat satsified,short,weekday,Mr. Jared York
+2157,Wednesday,FRONTIER,DENVER,west us,Hub,Gates 20-39,2018-12-31,153.0,Clean,Very safe,Very satisfied,medium,weekday,Abbot Lester
+1103,Tuesday,SOUTHWEST,SAN DIEGO,west us,Medium,Gates 20-39,2018-12-31,120.0,Clean,Very safe,Very satisfied,medium,weekday,Dr. Fulton Turner
+2053,Friday,UNITED,NEWARK,east us,Hub,Gates 70-90,2018-12-31,90.0,Average,Somewhat safe,Neutral,medium,weekday,Dr. Maggie Cortez
+2353,Wednesday,UNITED,AUSTIN,midwest us,Medium,Gates 70-90,2018-12-31,150.0,Clean,Very safe,Somewhat satsified,medium,weekday,Ramona Wade
+3048,Sunday,PHILIPPINE AIRLINES,MANILA,asia,Medium,Gates 1-12,2018-01-01,215.0,Somewhat clean,Very safe,Somewhat satsified,long,weekend,Dr. Lynn Thomas
+2143,Wednesday,FRONTIER,DENVER,west us,Hub,Gates 20-39,2018-12-31,123.0,Clean,Very safe,Somewhat satsified,medium,weekday,Aquila Graham
+1113,Thursday,DELTA,MINNEAPOLIS-ST. PAUL,midwest us,Hub,Gates 40-48,2018-12-31,120.0,Clean,Very safe,Very satisfied,medium,weekday,Gareth Marks
+1303,Tuesday,UNITED INTL,LONDON HEATHROW,europe,Hub,Gates 91-102,2018-12-31,140.0,Clean,Very safe,Neutral,medium,weekday,Dolan Wolf
+1261,Thursday,CHINA EASTERN,SHANGHAI,asia,Hub,Gates 1-12,2018-12-31,195.0,Clean,Very safe,Somewhat satsified,long,weekday,Julie Coffey
+9004,Friday,AIR CANADA,VANCOUVER,canada/mexico,Medium,Gates 91-102,2018-12-31,335.0,Clean,Very safe,Very satisfied,long,weekday,Emerson Hatfield
+1913,Saturday,AIR FRANCE/KLM,PARIS-DE GAULLE,europe,Hub,Gates 1-12,2018-12-31,215.0,Clean,Very safe,Somewhat satsified,long,weekend,Claire Rios
+3035,Tuesday,UNITED,PORTLAND,west us,Medium,Gates 70-90,2018-12-31,216.0,Somewhat clean,Somewhat safe,Somewhat satsified,long,weekday,Christian Doyle
+1542,Thursday,DELTA,NEW YORK-JFK,east us,Hub,Gates 40-48,2018-12-31,105.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Haley Oliver
+2352,Tuesday,DELTA,MINNEAPOLIS-ST. PAUL,midwest us,Hub,Gates 40-48,2018-12-31,155.0,Clean,Very safe,Somewhat satsified,medium,weekday,Rigel Day
+801,Sunday,ALASKA,BALTIMORE,east us,Medium,Gates 50-59,2018-12-31,155.0,Clean,Very safe,Very satisfied,medium,weekend,Clare Gould
+529,Thursday,EMIRATES,DUBAI,middle east,Hub,Gates 1-12,2018-12-31,240.0,Somewhat dirty,Somewhat safe,Neutral,long,weekday,Ms. Keiko Mcfarland
+3107,Tuesday,UNITED,SPOKANE,west us,Small,Gates 70-90,2018-12-31,247.0,Clean,Very safe,Very satisfied,long,weekday,Duncan Chandler
+1785,Saturday,UNITED,RALEIGH-DURHAM,east us,Medium,Gates 70-90,2018-12-31,130.0,Average,Neutral,Neutral,medium,weekend,Penelope Stark
+202,Wednesday,AMERICAN,LOS ANGELES,west us,Hub,Gates 50-59,2018-12-31,85.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Kasper Shields
+883,Tuesday,ALASKA,SEATTLE,west us,Hub,Gates 50-59,2018-12-31,145.0,Average,Very safe,Neutral,medium,weekday,Dr. Rose Fleming
+3142,Thursday,DELTA,SALT LAKE CITY,west us,Medium,Gates 40-48,2018-12-31,45.0,Somewhat clean,Very safe,Somewhat satsified,short,weekday,Miss Petra Mitchell
+3157,Tuesday,UNITED,SAN DIEGO,west us,Medium,Gates 60-69,2018-12-31,135.0,Somewhat clean,Very safe,Neutral,medium,weekday,Ms. Regan Lynch
+1894,Monday,LUFTHANSA,MUNICH,europe,Hub,Gates 91-102,2018-12-31,235.0,Somewhat clean,Very safe,Somewhat satsified,long,weekday,Keane Bennett
+458,Sunday,UNITED,DALLAS-FT. WORTH,midwest us,Hub,Gates 60-69,2018-12-31,250.0,Somewhat clean,Somewhat safe,Very satisfied,long,weekend,Nash Head
+2020,Friday,BRITISH AIRWAYS,LONDON HEATHROW,europe,Hub,Gates 1-12,2018-12-31,105.0,Somewhat clean,Neutral,Neutral,medium,weekday,Ainsley Riley
+312,Thursday,UNITED,SAN DIEGO,west us,Medium,Gates 70-90,2018-12-31,182.0,Somewhat clean,Very safe,Very satisfied,long,weekday,Kirestin Newton
+2903,Friday,TURKISH AIRLINES,ISTANBUL,middle east,Hub,Gates 91-102,2018-12-31,195.0,Clean,Very safe,Very satisfied,long,weekday,Jakeem Hall
+2108,Friday,JETBLUE,LONG BEACH,west us,Small,Gates 1-12,2018-12-31,119.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Reece Mitchell
+339,Wednesday,SOUTHWEST,PHOENIX,west us,Hub,Gates 20-39,2018-12-31,180.0,Average,Neutral,Neutral,medium,weekday,Wanda Walls
+2938,Friday,TURKISH AIRLINES,ISTANBUL,middle east,Hub,Gates 91-102,2018-12-31,135.0,Average,Neutral,Neutral,medium,weekday,Barry Mccray
+1396,Tuesday,UNITED INTL,SHANGHAI,asia,Hub,Gates 91-102,2018-12-31,295.0,Somewhat clean,Very safe,Neutral,long,weekday,Dr. Zahir Hardin
+1843,Wednesday,SOUTHWEST,SAN DIEGO,west us,Medium,Gates 20-39,2018-12-31,55.00000000000011,Average,Somewhat safe,Somewhat satsified,short,weekday,Graiden Cox
+3038,Tuesday,UNITED,PORTLAND,west us,Medium,Gates 70-90,2018-12-31,362.0,Somewhat clean,Somewhat safe,Somewhat satsified,long,weekday,Miss Lara Green
+1482,Wednesday,FRONTIER,DENVER,west us,Hub,Gates 20-39,2018-01-01,179.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Felix Bell
+2670,Tuesday,SOUTHWEST,DENVER,west us,Hub,Gates 20-39,2018-12-31,260.0,Average,Very safe,Somewhat satsified,long,weekday,Mr. Addison Day
+756,Sunday,ALASKA,NEW YORK-JFK,east us,Hub,Gates 50-59,2018-12-31,125.0,Clean,Very safe,Somewhat satsified,medium,weekend,Tallulah Guzman
+2128,Wednesday,FRONTIER,DENVER,west us,Hub,Gates 20-39,2018-12-31,243.0,Clean,Very safe,Somewhat satsified,long,weekday,Jocelyn Guzman
+1514,Wednesday,INTERJET,GUADALAJARA,canada/mexico,Medium,Gates 1-12,2018-12-31,105.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Ivory Miller
+2481,Friday,UNITED,CHICAGO-O'HARE,midwest us,Hub,Gates 60-69,2018-12-31,89.0,Average,Somewhat safe,Neutral,medium,weekday,Mr. Eaton Vazquez
+1150,Tuesday,SOUTHWEST,SAN DIEGO,west us,Medium,Gates 20-39,2018-12-31,49.9999999999998,Clean,Very safe,Very satisfied,short,weekday,Silas Clemons
+1105,Thursday,DELTA,MINNEAPOLIS-ST. PAUL,midwest us,Hub,Gates 40-48,2018-12-31,105.0,Somewhat clean,Neutral,Somewhat satsified,medium,weekday,Quinn Barry
+2945,Wednesday,SOUTHWEST,LOS ANGELES,west us,Hub,Gates 20-39,2018-12-31,65.0,Somewhat clean,Somewhat safe,Somewhat satsified,medium,weekday,Orson Pratt
+261,Friday,AIR CANADA,TORONTO,canada/mexico,Hub,Gates 91-102,2018-12-31,115.0,Clean,Very safe,Somewhat satsified,medium,weekday,Constance Morse
+819,Sunday,ALASKA,PORTLAND,west us,Medium,Gates 50-59,2018-12-31,80.0,Somewhat clean,Neutral,Neutral,medium,weekend,Ms. Vanna Rivera
+2924,Friday,TURKISH AIRLINES,ISTANBUL,middle east,Hub,Gates 91-102,2018-12-31,205.0,Somewhat clean,Somewhat safe,Somewhat satsified,long,weekday,Miss Venus Lowe
+2245,Thursday,SOUTHWEST,PHOENIX,west us,Hub,Gates 20-39,2018-12-31,140.0,Average,Somewhat safe,Somewhat satsified,medium,weekday,Amethyst Nieves
+238,Wednesday,AMERICAN,LOS ANGELES,west us,Hub,Gates 50-59,2018-12-31,115.0,Somewhat clean,Very safe,Somewhat satsified,medium,weekday,Miss Vivian Foreman
+1077,Friday,AIR CANADA,CALGARY,canada/mexico,Medium,Gates 91-102,2018-12-31,385.0,Somewhat clean,Somewhat safe,Neutral,long,weekday,Miss Wendy Griffin
